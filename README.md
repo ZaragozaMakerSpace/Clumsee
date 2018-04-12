@@ -6,9 +6,9 @@ Clumsee is a robot that has a color recognition sensor in order to extend games 
 
 Libraries used on this model
 <ul>
-	<li><a href="libraries"></a>TCS3200</li>
-	<li><a href="libraries"></a>IMU_MPU9250</li>
-	<li><a href="libraries"></a>Madgwick</li>
+	<li><a href="libraries">TCS3200</a></li>
+	<li><a href="libraries">IMU_MPU9250</a></li>
+	<li><a href="libraries">Madgwick</a></li>
 </ul>
 
 There are two different models one Color Sensor or with with two color sensors for other applications
@@ -31,8 +31,8 @@ This model can be controlled with a Esplora and a TFT Screen ST7735 to extend mo
 
 Libraries used on this model
 <ul>
-	<li><a href="libraries"></a>Adafruit_GFX</li>
-	<li><a href="libraries"></a>Adafruit_ST7735</li>
+	<li><a href="libraries">Adafruit_GFX</a></li>
+	<li><a href="libraries">Adafruit_ST7735</a></li>
 </ul>
 
 It´s neccesary configure some aspects inside our HC-05 Bluetooth and connect properly with Arduino Esplora in the following <a href="http://blascarr.com/esplora-hc-05-bluetooth-remote-control/">webpage</a>.
